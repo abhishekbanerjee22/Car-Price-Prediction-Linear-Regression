@@ -1,0 +1,2 @@
+# Car-Price-Prediction-Linear-Regression
+The aim of this project is to build a predictive model, to predict the car prices based on certain factors, to help a Chinese car company help enter the US market. The aim of this project is to find out the variables which are statistically significant in the prediction of car prices and also calculate the adjusted r square statistic ,which explains the variation in the model.
